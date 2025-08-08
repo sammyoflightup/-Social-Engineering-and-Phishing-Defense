@@ -3,7 +3,9 @@
 ## Overview
 This project demonstrates methods for identifying and mitigating social engineering attacks, specifically focusing on phishing attempts. Phishing attacks, a subset of social engineering, are designed to trick users into divulging sensitive information, such as login credentials, through malicious emails or websites.
 
+## link to presenatationhttps://www.canva.com/design/DAGrQ8OQlkI/1Ra155sxHo7S89oYuZuxWA/view?utm_content=DAGrQ8OQlkI&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h9800fd8b9a
 ## Objectives
+
 - Identify common phishing indicators and tactics used by attackers.
 - Mitigate and defend against phishing attempts through training, awareness, and technical defenses.
 
